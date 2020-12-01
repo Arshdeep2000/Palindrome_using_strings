@@ -1,1 +1,1 @@
-# Palindrome_using_strings
+# Strings
